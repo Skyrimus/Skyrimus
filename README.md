@@ -23,4 +23,3 @@
     </td>
   </tr>
 </table>
-![](https://hit.yhype.me/github/profile?user_id=5832920)
