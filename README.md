@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Alexey Kuzyakin, better known as Skyrimus</h1>
+<h1 align="center">Hi 👋, I'm Alexey Kuzyakin, better known as Skyrimus</h1>
 <h3 align="center">I'm a software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skyrimus&label=Profile%20views&color=0e75b6&style=flat" alt="skyrimus" /> </p>
 <p>Previously, I worked on projects involving Android OS development and reverse engineering for various devices (with over 5 years of experience). </p>
