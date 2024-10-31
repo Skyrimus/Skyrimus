@@ -11,7 +11,7 @@
 
 ### Notable Development Projects
 
-#### Smartphone Development
+#### Android Smartphone Development
 - **Development of recovery tools** for Asus smartphones — *2015 - 2016*
 - **Development of kernels and firmware (Android 6.0+)** for:
   - Samsung GT-S5310 — *2016*
