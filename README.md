@@ -8,6 +8,7 @@
 
 ### Reviews and Forum Contribution
 - More than 1150+ reviews on the largest forum about technologies [4PDA](https://4pda.to/forum/index.php?act=rep&mid=3927665&view=history&order=desc&mode=to)
+- Russian Serious Sam community [SeriousSite](https://www.serioussite.ru/index/8)
 
 ### Notable Development Projects
 
