@@ -4,7 +4,7 @@
 <p>Previously, I worked on projects involving Android OS development and reverse engineering for various devices (with over 5 years of experience). </p>
 <p>Since 2019 and up to the present, I have been maintaining my project for the Android platform — Serious Sam TFE/TSE Android Edition (using Java and C++) at https://github.com/Skyrimus/Serious-Sam-Android. </p>
 <p>For a long time, I was engaged in game development on the Roblox engine with over 5 years of experience in Lua Roblox. </p>
-<p>Lately, I have been programming in Python, C#, and C++.</p>
+<p>Lately, I have been programming in C++, C# and Python.</p>
 
 ### Reviews and Forum Contribution
 - More than 1150+ reviews on the largest forum about technologies [4PDA](https://4pda.to/forum/index.php?act=rep&mid=3927665&view=history&order=desc&mode=to)
@@ -19,30 +19,30 @@
 - **Development of kernels and firmware (Android 6.0 - 7.1)** for:
   - Alcatel OT-5010D — *2016 - 2018*
 - **Development of kernels and firmware (Android 6.0 - 9.0 Project Treble)** for:
-  - Alcatel OT-5015D — *2016 - 2018*
+  - Alcatel OT-5015D/5015X — *2016 - 2018* | [4PDA](https://4pda.to/forum/index.php?showtopic=879248)
   - Alcatel OT-5025D — *2018*
-- **Development of camera and accelerometer drivers** for:
-  - MTK 65xx processors — *2016 - 2018*
-  - MTK 67xx processors — *2018 - 2019*
+- **Development of camera and accelerometer drivers and HALS** for:
+  - MTK 65xx processors ALPS — *2016 - 2018* | [Repository](https://github.com/Skyrimus/camera_hals_5015D_5010D)
+  - MTK 67xx processors ALPS — *2018 - 2019*
 - **Development of kernels and firmware (Android 6.0 - 9.0 Project Treble)** for:
-  - Wileyfox Spark+ — *2018 - 2019*
+  - Wileyfox Spark+ — *2018 - 2019* | [4PDA](https://4pda.to/forum/index.php?showtopic=917036&view=findpost&p=76784952)
 - **Participation in the development of kernels and firmware (Android 6.0 - 9.0)** for various smartphones — *2016 - 2019*
 
 #### Game and Platform Development (Roblox and Android)
-- **Serious Sam TFE/TSE Android Edition game port** for the Android platform — *2019 - Present*
+- **Serious Sam TFE/TSE Android Edition game port** for the Android platform — *2019 - Present* | [4PDA](https://4pda.to/forum/index.php?showtopic=942755) | [SeriousSite](http://www.serioussite.ru/forum/6-3931-1)
 - **Roblox Game Development:**
-  - Eating Simulator — *2020*
-  - Infinity Power Simulator — *2020*
-  - Fall Block 3 — *2021*
-  - Castle — *2021*
-  - Spaceman Tycoon — *2021*
-  - Zoo Breakout — *2021*
-  - Garbage Collector Simulator — *2021*
-  - Infinity Power Simulator 2 — *2021*
-  - Transforming Robot Simulator (MVP) — *2022*
-  - Arrow Riders — *2022*
-  - Bubbles Simulator — *2022*
-  - Kuti Katay — *2023*
+  - Eating Simulator — *2020* | [Roblox](https://www.roblox.com/games/5359414099/Eating-Simulator)
+  - Infinity Power Simulator — *2020* | [Roblox](https://www.roblox.com/games/6265485611/MONSTERS-Infinity-Power-Simulator)
+  - Fall Block 3 — *2021* | [Roblox](https://www.roblox.com/games/6350363196/UPDATE-Fall-Block-3)
+  - Castle — *2021* | [Roblox](https://www.roblox.com/games/7071021196/Castle)
+  - Spaceman Tycoon — *2021* | [Roblox](https://www.roblox.com/games/7071021196/Castle)
+  - Zoo Breakout — *2021* | [Roblox](https://www.roblox.com/games/7322334318/UPDATE-Zoo-Breakout-Simulator)
+  - Garbage Collector Simulator — *2021* | [Roblox](https://www.roblox.com/games/7991015110/Garbage-Collector-Simulator-UPDATE)
+  - Infinity Power Simulator 2 — *2021* | [Roblox](https://www.roblox.com/games/7424965087/Infinity-Power-Simulator-2)
+  - Transforming Robot Simulator (MVP) — *2022* | [Roblox](https://www.roblox.com/games/8506979156/Transforming-Robot-Simulator)
+  - Arrow Riders Beta (discontinued) — *2022* | [Roblox](https://www.roblox.com/games/8195611377/ArrowRiders#!/about)
+  - Bubbles Simulator — *2022* | [Roblox](https://www.roblox.com/games/13126775213/Bubble-Blowing-Simulator)
+  - Kuti Katay — *2023* | [Roblox](https://www.roblox.com/games/14038053281/unnamed#!/game-instances)
 - **Additional Projects with NDA** — *2023 - 2024*
 
 
