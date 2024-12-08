@@ -46,6 +46,11 @@
   - Kuti Katay — *2023* | [Roblox](https://www.roblox.com/games/14038053281/unnamed#!/game-instances)
 - **Additional Projects with NDA** — *2023 - 2024*
 
+### Hardware
+* HMD - Pico 4 
+* SoC - AMD Ryzen 9 7950X3D
+* Graphics - RTX 4070 SUPER GV-N407SWF3OC-12GD
+
 ### Contacts
  - Telegram [@Skyrimus](https://t.me/Skyrimus) (preferred)
    
