@@ -24,7 +24,7 @@
   - Alcatel OT-5025D — *2018*
 - **Development of camera and accelerometer drivers and HALS** for:
   - MTK 65xx processors ALPS — *2016 - 2018* | [Repository](https://github.com/Skyrimus/camera_hals_5015D_5010D)
-  - MTK 67xx processors ALPS — *2018 - 2019*
+  - MTK 67xx processors ALPS — *2018 - 2019* | [Repository](https://github.com/Skyrimus/device_kernel_porridge/tree/master/vendor/mediatek/proprietary/custom/mt6735/hal/D1)
 - **Development of kernels and firmware (Android 6.0 - 9.0 Project Treble)** for:
   - Wileyfox Spark+ — *2018 - 2019* | [4PDA](https://4pda.to/forum/index.php?showtopic=917036&view=findpost&p=76784952) | [Repository](https://github.com/Skyrimus/device_kernel_porridge)
 - **Participation in the development of kernels and firmware (Android 6.0 - 9.0)** for various smartphones — *2016 - 2019*
