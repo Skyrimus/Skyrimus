@@ -4,7 +4,7 @@
 <p>Previously, I worked on projects involving Android OS development and reverse engineering for various Mediatek based devices (with over 5 years of experience). </p>
 <p>Since 2019 and up to the present, I have been maintaining my project for the Android platform — Serious Sam TFE/TSE Android Edition (using Java and C++) at https://github.com/Skyrimus/Serious-Sam-Android. </p>
 <p>For a long time, I was engaged in game development on the Roblox engine with over 5 years of experience in Lua Roblox. </p>
-<p>Lately, I have been programming in C++, C# and Python.</p>
+<p>I have been programming in C++, C#, Java, Lua and Python.</p>
 
 ### Reviews and Forum Contribution
 - More than 1150+ reviews on the largest forum about technologies [4PDA](https://4pda.to/forum/index.php?act=rep&mid=3927665&view=history&order=desc&mode=to)
