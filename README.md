@@ -44,7 +44,7 @@
   - Arrow Riders Beta (discontinued) — *2022* | [Roblox](https://www.roblox.com/games/8195611377/ArrowRiders#!/about)
   - Bubbles Simulator — *2022* | [Roblox](https://www.roblox.com/games/13126775213/Bubble-Blowing-Simulator)
   - Kuti Katay — *2023* | [Roblox](https://www.roblox.com/games/14038053281/unnamed#!/game-instances)
-- **Additional Projects with NDA** — *2023 - 2024*
+- **Additional Projects with NDA** — *2023 - 2025*
 
 ### Hardware
 * HMD - Pico 4 
