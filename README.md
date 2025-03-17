@@ -36,7 +36,7 @@
   - Infinity Power Simulator — *2020* | [Roblox](https://www.roblox.com/games/6265485611/MONSTERS-Infinity-Power-Simulator)
   - Fall Block 3 — *2021* | [Roblox](https://www.roblox.com/games/6350363196/UPDATE-Fall-Block-3)
   - Castle — *2021* | [Roblox](https://www.roblox.com/games/7071021196/Castle)
-  - Spaceman Tycoon — *2021* | [Roblox](https://www.roblox.com/games/7071021196/Castle)
+  - Spaceman Tycoon — *2021* | [Roblox](https://www.roblox.com/games/7267573378/ENEMIES-Spaceman-Tycoon)
   - Zoo Breakout — *2021* | [Roblox](https://www.roblox.com/games/7322334318/UPDATE-Zoo-Breakout-Simulator)
   - Garbage Collector Simulator — *2021* | [Roblox](https://www.roblox.com/games/7991015110/Garbage-Collector-Simulator-UPDATE)
   - Infinity Power Simulator 2 — *2021* | [Roblox](https://www.roblox.com/games/7424965087/Infinity-Power-Simulator-2)
