@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexey Kuzyakin, better known as Skyrimus</h1>
 <h3 align="center">I'm a senior software developer</h3>
 
-<p>Previously, I worked on projects involving Android OS development and reverse engineering for various Mediatek based devices (with over 5 years of experience). </p>
+<p>Previously, I worked on projects involving Android OS development and reverse engineering for various Mediatek based devices (with over 6 years of experience). </p>
 <p>Since 2019 and up to the present, I have been maintaining my project for the Android platform — Serious Sam TFE/TSE Android Edition (using Java and C++) at https://github.com/Skyrimus/Serious-Sam-Android. </p>
 <p>For a long time, I was engaged in game development on the Roblox engine with over 5 years of experience in Lua Roblox. </p>
 <p>I have been programming in C++, C#, Java, Lua and Python.</p>
