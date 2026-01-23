@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alexey Kuzyakin, better known as Skyrimus</h1>
-<h3 align="center">I'm a senior software developer</h3>
-
-<p>Previously, I worked on projects involving Android OS development and reverse engineering for various Mediatek based devices (with over 6 years of experience). </p>
-<p>Since 2019 and up to the present, I have been maintaining my project for the Android platform — Serious Sam TFE/TSE Android Edition (using Java and C++) at https://github.com/Skyrimus/Serious-Sam-Android. </p>
-<p>For a long time, I was engaged in game development on the Roblox engine with over 6 years of experience in Lua Roblox. </p>
-<p>I have been programming in C++, C#, Java, Lua and Python.</p>
+<p>I am a senior gameplay/engine developer with 7+ years of commercial
+experience in game and software development.</p>
+<p>I have a strong background in technical leadership: led a 15-20 person team,
+conducted many technical interviews, and managed up to 5 projects in parallel.</p>
+<p>I have 6+ years of experience on Roblox (Lua/Luau) across multiple genres (FPS,
+Tycoon, RTS, RPG, 2D/3D platformers) and shipped 20+ commercial projects in
+portfolio (full list available on GitHub).</p>
+<p>I also have commercial experience with Unreal Engine (C++), including participation
+in release milestones (public Steam demo stage).</p>
+<p>Since 2019, I have been developing and maintaining Serious Sam TFE/TSE Android
+Edition on Serious Engine (custom engine) (C++/Java), fully ported to Android. In
+parallel, I am building a VR port of Serious Sam Classics using OpenXR for standalone
+headsets (Pico 4, Quest 2/3), focusing on interaction and system integration under
+device constraints.</p>
+<p>I work with Android NDK/JNI, OpenGL/OpenGL ES in engine/platform-focused tasks,
+and have Android OS reverse engineering/customization experience
+(drivers/firmware). I maintained ~20 projects during 2015–2020.</p>
 
 ### Reviews and Forum Contribution
 - More than 1150+ reviews on the largest forum about technologies [4PDA](https://4pda.to/forum/index.php?act=rep&mid=3927665&view=history&order=desc&mode=to)
