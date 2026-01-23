@@ -31,6 +31,9 @@
 
 #### Game and Platform Development (Roblox and Android)
 - **Serious Sam TFE/TSE Android Edition game port** for the Android platform — *2019 - Present* | [4PDA](https://4pda.to/forum/index.php?showtopic=942755) | [SeriousSite](http://www.serioussite.ru/forum/6-3931-1)
+  
+- **Serious Sam OpenXR Edition game port** for the Pico and Oculus Quest platform — *2025 - Present* | [YouTube](https://www.youtube.com/watch?v=vCwtQk_FRE4)
+
 - **Roblox Game Development:**
   - Eating Simulator — *2020* | [Roblox](https://www.roblox.com/games/5359414099/Eating-Simulator)
   - Infinity Power Simulator — *2020* | [Roblox](https://www.roblox.com/games/6265485611/MONSTERS-Infinity-Power-Simulator)
