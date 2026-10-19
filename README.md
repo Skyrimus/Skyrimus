@@ -43,7 +43,7 @@ and have Android OS reverse engineering/customization experience
 #### Game and Platform Development (Roblox and Android)
 - **Serious Sam TFE/TSE Android Edition game port** for the Android platform — *2019 - Present* | [4PDA](https://4pda.to/forum/index.php?showtopic=942755) | [SeriousSite](http://www.serioussite.ru/forum/6-3931-1)
   
-- **Serious Sam Classic VR Port** or **Serious Sam Classic OpenXR Edition** for the Pico and Oculus Quest platform — *2025 - Present* | [Telegram](https://t.me/serious_sam_classic_vr) | [Boosty](https://boosty.to/skyrimus) | [YouTube](https://www.youtube.com/watch?v=vCwtQk_FRE4)
+- **Serious Sam Classic VR Port** or **Serious Sam Classic OpenXR Edition** for the Pico and Oculus Quest platform — *2025 - Present* | [Github](https://github.com/Skyrimus/Serious-Sam-Classic-VR) | [Telegram](https://t.me/serious_sam_classic_vr) | [Boosty](https://boosty.to/skyrimus) | [YouTube](https://www.youtube.com/watch?v=vCwtQk_FRE4)
 
 - **Roblox Game Development:**
   - Eating Simulator — *2020* | [Roblox](https://www.roblox.com/games/5359414099/Eating-Simulator)
